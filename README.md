@@ -12,8 +12,6 @@ Inspired by [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults).
 
 Add `https://github.com/Fus1onDev/Localizability` in Swift Package Manager.
 
-## Features
-
 ## Usage
 
 First, add some keys and values to `Localizable.strings`.
